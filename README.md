@@ -35,4 +35,10 @@ The application provides a clear flow for insurance companies to easily upload v
 ![image](https://github.com/user-attachments/assets/689cc45e-b655-4b9e-afaf-9abceed3447e)
 
 #### 1. Home Renovation Insurance Claim
+![image](https://github.com/user-attachments/assets/be6b50db-93b3-40a7-9d97-f8ddccb4ef64)
+![image](https://github.com/user-attachments/assets/a685eaff-3cd7-45a0-962c-2b6f130c66d7)
+![image](https://github.com/user-attachments/assets/e041dbab-1488-4539-b634-cbca088b4b87)
+
+
+
 
