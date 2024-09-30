@@ -11,9 +11,10 @@ The goal of this application is to extract audio narratives from user-captured v
 1. Frontend: Streamlit (for creating a simple and interactive interface)
 2. Backend: Python (for processing the video and generating summaries)
 3. Libraries used:
-   moviepy: Used to extract audio from the uploaded video.
-   Whisper API: Converts the extracted audio into text (transcription).
-   Gemini API: Summarizes the transcription based on a predefined prompt template and generates the summary.
+   - moviepy: Used to extract audio from the uploaded video.  
+   - Whisper API: Converts the extracted audio into text (transcription).  
+   - Gemini API: Summarizes the transcription based on a predefined prompt template and generates the summary.  
+
 The application provides a clear flow for insurance companies to easily upload videos and get a summarized description of what the user has said about the damage.
 
 ### Key Features
