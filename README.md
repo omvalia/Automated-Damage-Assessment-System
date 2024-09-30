@@ -29,3 +29,10 @@ The application provides a clear flow for insurance companies to easily upload v
 3. Transcription: Whisper API converts the audio to text.
 4. Summary Generation: The Gemini API uses a prompt template to generate a summary of the damage based on the transcription.
 5. Q&A Ready Summary: The generated summary is inserted into a pre-specified template, ready for review.
+
+### Project Demo
+#### Basic UI
+![image](https://github.com/user-attachments/assets/689cc45e-b655-4b9e-afaf-9abceed3447e)
+
+#### 1. Home Renovation Insurance Claim
+
