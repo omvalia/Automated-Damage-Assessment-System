@@ -34,17 +34,22 @@ The application provides a clear flow for insurance companies to easily upload v
 #### Basic UI
 ![image](https://github.com/user-attachments/assets/689cc45e-b655-4b9e-afaf-9abceed3447e)
 
-#### 1. Home Renovation Insurance Claim
+#### 1. Medical Insurance Claim
+![image](https://github.com/user-attachments/assets/5068522b-ab8c-4a24-8e97-0caed48c827e)
+![image](https://github.com/user-attachments/assets/b9a8172c-76cb-4343-a0b8-2bc79112ce61)
+![image](https://github.com/user-attachments/assets/77e28b51-e645-43f1-ba4c-a26fa064ecf1)
+
+#### 2. Home Renovation Insurance Claim
 ![image](https://github.com/user-attachments/assets/be6b50db-93b3-40a7-9d97-f8ddccb4ef64)
 ![image](https://github.com/user-attachments/assets/a685eaff-3cd7-45a0-962c-2b6f130c66d7)
 ![image](https://github.com/user-attachments/assets/e041dbab-1488-4539-b634-cbca088b4b87)
 
-#### 2. Car Accident Insurance Claim
+#### 3. Car Accident Insurance Claim
 ![image](https://github.com/user-attachments/assets/c7d01d6c-0db6-47b5-b368-1667cb74f209)
 ![image](https://github.com/user-attachments/assets/9f3b7ccc-bce5-4fe3-944f-d400d1a50304)
 ![image](https://github.com/user-attachments/assets/be804e0b-b3b6-4970-8ed5-edd4630d8494)
 
-#### 3. Medical Insurance Claim
+
 
 
 
