@@ -45,9 +45,12 @@ The application provides a clear flow for insurance companies to easily upload v
 ![image](https://github.com/user-attachments/assets/e041dbab-1488-4539-b634-cbca088b4b87)
 
 #### 3. Car Accident Insurance Claim
-![image](https://github.com/user-attachments/assets/c7d01d6c-0db6-47b5-b368-1667cb74f209)
-![image](https://github.com/user-attachments/assets/9f3b7ccc-bce5-4fe3-944f-d400d1a50304)
-![image](https://github.com/user-attachments/assets/be804e0b-b3b6-4970-8ed5-edd4630d8494)
+![Screenshot 2024-09-30 221746](https://github.com/user-attachments/assets/7ab5cd94-9444-4811-92d8-e4fc77eafe6e)
+![Screenshot 2024-09-30 221848](https://github.com/user-attachments/assets/9b185378-6bfb-4c2a-8624-aeb6809289ce)
+![Screenshot 2024-09-30 221905](https://github.com/user-attachments/assets/9afba5c9-4879-4c89-aef6-587bbf5daa32)
+
+
+
 
 
 
