@@ -13,7 +13,7 @@ The goal of this application is to extract audio narratives from user-captured v
 3. Libraries used:
    - moviepy: Used to extract audio from the uploaded video.  
    - Whisper API: Converts the extracted audio into text (transcription).  
-   - Gemini API: Summarizes the transcription based on a predefined prompt template and generates the summary.  
+   - Google Gemini LLM Model: Summarizes the transcription based on a predefined prompt template and generates the summary.  
 
 The application provides a clear flow for insurance companies to easily upload videos and get a summarized description of what the user has said about the damage.
 
